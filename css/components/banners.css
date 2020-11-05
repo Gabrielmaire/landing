@@ -1,0 +1,31 @@
+.banner {
+background-image: url('https://i.picsum.photos/id/180/2400/1600.jpg?hmac=Ig-CXcpNdmh51k3kXpNqNqcDYTwXCIaonYiBOnLXBb8');
+height: 250px;
+display: flex;
+text-align: center;
+/*justify-content: center;*/
+/*align-items: center;*/
+background-position: center;
+background-size: cover
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+}
+
+.footer {
+    text-align: center;
+    background-color: #a5a58d;
+    padding: 50px;
+    margin-top: 30px;
+    margin-bottom: 0px
+
+}
+
+.footer p {
+  font-style: italic;
+}

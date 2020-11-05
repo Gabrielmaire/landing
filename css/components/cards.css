@@ -1,0 +1,36 @@
+.container h2{
+  display: flex;
+ /* align-items: center;
+  text-align: center;*/
+  justify-content: center;
+
+}
+
+.container {
+  margin: auto;
+  width: 800px
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  /*margin: 20px*/
+}
+
+.card {
+margin: 10px;
+text-align: center;
+box-shadow: 0 0 5px rgb(230,230,230);
+width: 250px;
+border-radius: 3px;
+}
+
+.card img {
+  height: 100px;
+  width: 180px;
+}
+
+.card p {
+  color: grey;
+  /*text-align: center;*/
+}
